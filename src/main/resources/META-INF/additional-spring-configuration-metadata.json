@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "spring.data.mongodb.intern.uri",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.mongodb.intern.uri'"
+  },
+  {
+    "name": "spring.data.mongodb.employee.uri",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.mongodb.employee.uri'"
+  }
+]}
